@@ -1,0 +1,14 @@
+D:\Projects\Sprint 1\Project\GradeCalculator\GradeCalculator\bin\Debug\net6.0\StudentCalculator.exe
+D:\Projects\Sprint 1\Project\GradeCalculator\GradeCalculator\bin\Debug\net6.0\StudentCalculator.deps.json
+D:\Projects\Sprint 1\Project\GradeCalculator\GradeCalculator\bin\Debug\net6.0\StudentCalculator.runtimeconfig.json
+D:\Projects\Sprint 1\Project\GradeCalculator\GradeCalculator\bin\Debug\net6.0\StudentCalculator.dll
+D:\Projects\Sprint 1\Project\GradeCalculator\GradeCalculator\bin\Debug\net6.0\StudentCalculator.pdb
+D:\Projects\Sprint 1\Project\GradeCalculator\GradeCalculator\obj\Debug\net6.0\StudentCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Sprint 1\Project\GradeCalculator\GradeCalculator\obj\Debug\net6.0\StudentCalculator.AssemblyInfoInputs.cache
+D:\Projects\Sprint 1\Project\GradeCalculator\GradeCalculator\obj\Debug\net6.0\StudentCalculator.AssemblyInfo.cs
+D:\Projects\Sprint 1\Project\GradeCalculator\GradeCalculator\obj\Debug\net6.0\StudentCalculator.csproj.CoreCompileInputs.cache
+D:\Projects\Sprint 1\Project\GradeCalculator\GradeCalculator\obj\Debug\net6.0\StudentCalculator.dll
+D:\Projects\Sprint 1\Project\GradeCalculator\GradeCalculator\obj\Debug\net6.0\refint\StudentCalculator.dll
+D:\Projects\Sprint 1\Project\GradeCalculator\GradeCalculator\obj\Debug\net6.0\StudentCalculator.pdb
+D:\Projects\Sprint 1\Project\GradeCalculator\GradeCalculator\obj\Debug\net6.0\StudentCalculator.genruntimeconfig.cache
+D:\Projects\Sprint 1\Project\GradeCalculator\GradeCalculator\obj\Debug\net6.0\ref\StudentCalculator.dll
